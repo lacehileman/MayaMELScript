@@ -1,0 +1,3 @@
+setAttr "locator1.translateX" -1;
+setAttr "ramp1.colorEntryList[2].position" 0.001;
+setDrivenKeyframe -currentDriver locator1.translateX ramp1.colorEntryList[2].position;
